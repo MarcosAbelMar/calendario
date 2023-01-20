@@ -1,3 +1,19 @@
 #diaSemana{
     width: 200px;
+    margin:10px;
+}
+#dia{
+    margin:10px;
+    width: 200px; 
+}
+#mes{
+    margin:10px;
+    width: 200px; 
+}
+#anio{
+    margin:10px;
+    width: 200px; 
+}
+#calcular{
+    margin:10px;
 }
